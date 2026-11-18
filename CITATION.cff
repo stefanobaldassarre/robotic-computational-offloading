@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Se utilizzi il progetto in un lavoro accademico, cita l'autore e la versione utilizzata."
+type: software
+title: "Separazione computazionale in sistemi robotici a risorse limitate: analisi sperimentale delle prestazioni locale-remoto"
+authors:
+  - family-names: "Baldassarre"
+    given-names: "Stefano"
+license: MIT
+keywords:
+  - computational offloading
+  - robotica
+  - Raspberry Pi
+  - Gazebo
+  - MATLAB
+# Aggiungere repository-code e version dopo la pubblicazione.

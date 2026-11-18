@@ -1,0 +1,13 @@
+FROM python:3.13.15-slim
+
+WORKDIR /app
+
+COPY requirements_proxy.txt .
+
+RUN pip install --no-cache-dir -r requirements_proxy.txt
+
+COPY task_a_remote_proxy.py .
+
+EXPOSE 5002
+
+CMD ["python", "task_a_remote_proxy.py"]

@@ -1,0 +1,61 @@
+{
+  "mode": "remote",
+  "file": "S1_04.wav",
+  "sha256": "872ebeeb816a4d52da5e6221b195babaf110363ed2acb5a1bb23e8e86fb719b1",
+  "recognition": {
+    "audio_seconds": 4.2013125,
+    "commands": [
+      "destra"
+    ],
+    "offload_e2e_time_ms": 224.10985099986647,
+    "payload_bytes": 134486,
+    "proxy_service_time_ms": 233.9007370001127,
+    "remote_processing_time_ms": 195.5083340001238,
+    "remote_service_time_ms": 200.80558300014673,
+    "text": "destra"
+  },
+  "before_request": {
+    "sequence": 57,
+    "received_wall": 2846.728870377,
+    "sim_seconds": 15.8,
+    "x": -4.1245856877362596e-11,
+    "y": -4.0617768807201897e-22,
+    "linear_x": -2.8376790590505994e-12,
+    "angular_z": 1.2014046718651636e-12,
+    "yaw": 1.8547478473088394e-11
+  },
+  "initial_motion": {
+    "sequence": 69,
+    "received_wall": 2846.968955103,
+    "sim_seconds": 16.04,
+    "x": -4.192689982235672e-11,
+    "y": -4.189075019909121e-22,
+    "linear_x": -2.837677063172672e-12,
+    "angular_z": 1.2013907825940726e-12,
+    "yaw": 1.8835814277289808e-11
+  },
+  "final": {
+    "sequence": 175,
+    "received_wall": 2849.088811348,
+    "sim_seconds": 18.16,
+    "x": -4.18999914675607e-11,
+    "y": 5.1135918709689234e-14,
+    "linear_x": -6.661338147750939e-14,
+    "angular_z": -5.595524044110789e-12,
+    "yaw": -0.9994999998366763
+  },
+  "http_e2e_wall_s": 0.25098358500008544,
+  "response_to_motion_wall_s": 0.00010150499974770355,
+  "command_interval_wall_s": 1.9994344790002287,
+  "command_interval_sim_s": 2.0,
+  "motion_until_stop_confirmed_wall_s": 2.1206417180001154,
+  "motion_until_stop_confirmed_sim_s": 2.120000000000001,
+  "total_until_stop_confirmed_wall_s": 2.3717268079999485,
+  "total_until_stop_confirmed_sim_s": 2.3599999999999994,
+  "dx_m": 2.6908354796018425e-14,
+  "dy_m": 5.1135919128596735e-14,
+  "displacement_m": 5.778357710418067e-14,
+  "yaw_change_rad": -0.9994999998555121,
+  "rotation_observed": true,
+  "stop_confirmed": true
+}

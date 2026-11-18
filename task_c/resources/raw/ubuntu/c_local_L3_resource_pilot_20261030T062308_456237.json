@@ -1,0 +1,32 @@
+{
+  "mode": "local",
+  "level": "L3",
+  "label": "c_local_L3_resource_pilot_20261030T062308_456237",
+  "status": "completed",
+  "map_sha256": "7bf61a06f06191e5b4d4ab6a81c8601acb395e75c52dc3676e736e3af0d8b6ca",
+  "warmup_count": 3,
+  "measured_count": 100,
+  "windows": [
+    {
+      "event": "ENDED",
+      "phase": "idle",
+      "elapsed_s": 10.004622207000011,
+      "cpu_seconds": 0.003116,
+      "memory_start_bytes": 26759168,
+      "memory_end_bytes": 26759168
+    },
+    {
+      "event": "ENDED",
+      "phase": "active",
+      "elapsed_s": 15.404208069000106,
+      "cpu_seconds": 12.879002,
+      "memory_start_bytes": 26759168,
+      "memory_end_bytes": 26869760
+    }
+  ],
+  "protocol": "pilot_C_ascending_levels_100_requests",
+  "agent": {
+    "event": "READY",
+    "base": "/home/raspberry/tesi/resource_monitor/results/c_local_L3_resource_pilot_20261030T062308_456237_20261030T062308_545816"
+  }
+}

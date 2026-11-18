@@ -1,0 +1,27 @@
+{
+  "mode": "remote",
+  "label": "b_remote_resource_pilot_20261029T191247_972352",
+  "status": "completed",
+  "windows": [
+    {
+      "event": "ENDED",
+      "phase": "idle",
+      "elapsed_s": 10.004220042999805,
+      "cpu_seconds": 0.002662,
+      "memory_start_bytes": 29978624,
+      "memory_end_bytes": 29978624
+    },
+    {
+      "event": "ENDED",
+      "phase": "active",
+      "elapsed_s": 5.735150354000325,
+      "cpu_seconds": 0.446394,
+      "memory_start_bytes": 29978624,
+      "memory_end_bytes": 30412800
+    }
+  ],
+  "agent": {
+    "event": "READY",
+    "base": "/home/raspberry/tesi/resource_monitor/results/b_remote_resource_pilot_20261029T191247_972352_20261029T191249_591863"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "selected_blocks": 70,
+  "measured_requests": 8150,
+  "selection": "Explicit runs.json files; pilots and extra attempts excluded",
+  "long_sample_gaps": [
+    {
+      "label": "b_local_resource_pilot_20261029T190358_302239",
+      "max_sample_gap_s": 0.8695434410001326
+    },
+    {
+      "label": "c_local_L2_resource_pilot_20261030T062248_439109",
+      "max_sample_gap_s": 0.6580532590000985
+    }
+  ],
+  "validation": "passed"
+}

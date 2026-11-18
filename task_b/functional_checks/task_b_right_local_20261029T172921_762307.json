@@ -1,0 +1,59 @@
+{
+  "mode": "local",
+  "file": "S1_04.wav",
+  "sha256": "872ebeeb816a4d52da5e6221b195babaf110363ed2acb5a1bb23e8e86fb719b1",
+  "recognition": {
+    "audio_seconds": 4.2013125,
+    "commands": [
+      "destra"
+    ],
+    "payload_bytes": 134486,
+    "processing_time_ms": 2699.644016000093,
+    "service_time_ms": 2709.725303000141,
+    "text": "destra"
+  },
+  "before_request": {
+    "sequence": 57,
+    "received_wall": 2937.134886347,
+    "sim_seconds": 14.18,
+    "x": -3.664881710746103e-11,
+    "y": -3.2538772673514816e-22,
+    "linear_x": -2.8376795228420447e-12,
+    "angular_z": 1.2014022861896815e-12,
+    "yaw": 1.6601210833645107e-11
+  },
+  "initial_motion": {
+    "sequence": 194,
+    "received_wall": 2939.875143148,
+    "sim_seconds": 16.92,
+    "x": -4.442405610872542e-11,
+    "y": -4.6726350228715e-22,
+    "linear_x": -2.8376769799641184e-12,
+    "angular_z": 1.2013923939083017e-12,
+    "yaw": 1.989303946949528e-11
+  },
+  "final": {
+    "sequence": 300,
+    "received_wall": 2941.995149673,
+    "sim_seconds": 19.04,
+    "x": -4.439110394629568e-11,
+    "y": 5.055929871434777e-14,
+    "linear_x": -6.661338147750939e-14,
+    "angular_z": -5.595524044110789e-12,
+    "yaw": -1.0004999998354898
+  },
+  "http_e2e_wall_s": 2.737552353999945,
+  "response_to_motion_wall_s": 8.904200012693764e-05,
+  "command_interval_wall_s": 2.0010651399998096,
+  "command_interval_sim_s": 2.0,
+  "motion_until_stop_confirmed_wall_s": 2.1222403589999885,
+  "motion_until_stop_confirmed_sim_s": 2.1199999999999974,
+  "total_until_stop_confirmed_wall_s": 4.85988175500006,
+  "total_until_stop_confirmed_sim_s": 4.859999999999999,
+  "dx_m": 3.295216242974439e-14,
+  "dy_m": 5.055929918161127e-14,
+  "displacement_m": 6.034971203354607e-14,
+  "yaw_change_rad": -1.0004999998553827,
+  "rotation_observed": true,
+  "stop_confirmed": true
+}

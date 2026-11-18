@@ -1,0 +1,27 @@
+{
+  "mode": "local",
+  "label": "b_local_resource_pilot_20261029T191913_274015",
+  "status": "completed",
+  "windows": [
+    {
+      "event": "ENDED",
+      "phase": "idle",
+      "elapsed_s": 10.004697760999989,
+      "cpu_seconds": 0.002678,
+      "memory_start_bytes": 240422912,
+      "memory_end_bytes": 240422912
+    },
+    {
+      "event": "ENDED",
+      "phase": "active",
+      "elapsed_s": 76.28061469300019,
+      "cpu_seconds": 75.754231,
+      "memory_start_bytes": 240422912,
+      "memory_end_bytes": 244350976
+    }
+  ],
+  "agent": {
+    "event": "READY",
+    "base": "/home/raspberry/tesi/resource_monitor/results/b_local_resource_pilot_20261029T191913_274015_20261029T191928_896576"
+  }
+}

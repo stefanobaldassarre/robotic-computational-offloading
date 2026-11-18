@@ -1,0 +1,175 @@
+{
+  "mode": "local",
+  "file": "S5_01.wav",
+  "sha256": "c2f0fcf26b0127d61648353e9c187728a6c757a9b717b482ff9c73118146a743",
+  "recognition": {
+    "audio_seconds": 20.4946875,
+    "commands": [
+      "avanti",
+      "indietro",
+      "sinistra",
+      "destra",
+      "stop"
+    ],
+    "payload_bytes": 655874,
+    "processing_time_ms": 7423.00094500024,
+    "service_time_ms": 7478.873231999842,
+    "text": "avanti indietro sinistra destra stop"
+  },
+  "initial": {
+    "sequence": 62,
+    "received_wall": 3721.124174157,
+    "sim_seconds": 24.8,
+    "x": -6.678495601056402e-11,
+    "y": -1.0179347575194353e-21,
+    "linear_x": -2.837678636685393e-12,
+    "angular_z": 1.201394043050534e-12,
+    "yaw": 2.936001008336102e-11
+  },
+  "actions": [
+    {
+      "command": "avanti",
+      "initial": {
+        "sequence": 438,
+        "received_wall": 3728.64405347,
+        "sim_seconds": 32.32,
+        "x": -8.812425773918702e-11,
+        "y": -1.7408460641829435e-21,
+        "linear_x": -2.8376737668482374e-12,
+        "angular_z": 1.2013166778507985e-12,
+        "yaw": 3.8393956374372554e-11
+      },
+      "final": {
+        "sequence": 544,
+        "received_wall": 3730.764084853,
+        "sim_seconds": 34.44,
+        "x": 0.19999999990758088,
+        "y": 7.223634225702387e-12,
+        "linear_x": 4.3298697960381105e-13,
+        "angular_z": -4.440892098500626e-14,
+        "yaw": 3.5779268424757344e-11
+      },
+      "forward_displacement_m": 0.19999999999570514,
+      "lateral_displacement_m": -4.551570472663823e-13,
+      "yaw_change_rad": -2.6146879496152104e-12,
+      "until_stop_confirmed_wall_s": 2.1210617269998693,
+      "functional_pass": true
+    },
+    {
+      "command": "indietro",
+      "initial": {
+        "sequence": 544,
+        "received_wall": 3730.764084853,
+        "sim_seconds": 34.44,
+        "x": 0.19999999990758088,
+        "y": 7.223634225702387e-12,
+        "linear_x": 4.3298697960381105e-13,
+        "angular_z": -4.440892098500626e-14,
+        "yaw": 3.5779268424757344e-11
+      },
+      "final": {
+        "sequence": 650,
+        "received_wall": 3732.883978566,
+        "sim_seconds": 36.56,
+        "x": -0.00010000009143040894,
+        "y": -6.480756409007967e-14,
+        "linear_x": 2.808265230601348e-12,
+        "angular_z": 1.961202467787304e-12,
+        "yaw": 4.0176476364320216e-11
+      },
+      "forward_displacement_m": -0.2000999999990113,
+      "lateral_displacement_m": -1.2901017803389752e-13,
+      "yaw_change_rad": 4.397207939562872e-12,
+      "until_stop_confirmed_wall_s": 2.122437077000086,
+      "functional_pass": true
+    },
+    {
+      "command": "sinistra",
+      "initial": {
+        "sequence": 650,
+        "received_wall": 3732.883978566,
+        "sim_seconds": 36.56,
+        "x": -0.00010000009143040894,
+        "y": -6.480756409007967e-14,
+        "linear_x": 2.808265230601348e-12,
+        "angular_z": 1.961202467787304e-12,
+        "yaw": 4.0176476364320216e-11
+      },
+      "final": {
+        "sequence": 756,
+        "received_wall": 3735.003952065,
+        "sim_seconds": 38.68,
+        "x": -0.00010000009078448959,
+        "y": -4.48399377022974e-14,
+        "linear_x": 6.661338147750939e-14,
+        "angular_z": 5.595524044110789e-12,
+        "yaw": 0.9999999998955149
+      },
+      "forward_displacement_m": 6.459193531608816e-13,
+      "lateral_displacement_m": 1.996762636183151e-14,
+      "yaw_change_rad": 0.9999999998553384,
+      "until_stop_confirmed_wall_s": 2.1219668749999983,
+      "functional_pass": true
+    },
+    {
+      "command": "destra",
+      "initial": {
+        "sequence": 756,
+        "received_wall": 3735.003952065,
+        "sim_seconds": 38.68,
+        "x": -0.00010000009078448959,
+        "y": -4.48399377022974e-14,
+        "linear_x": 6.661338147750939e-14,
+        "angular_z": 5.595524044110789e-12,
+        "yaw": 0.9999999998955149
+      },
+      "final": {
+        "sequence": 863,
+        "received_wall": 3737.144024184,
+        "sim_seconds": 40.82,
+        "x": -0.00010000009104617561,
+        "y": -1.518877902705766e-13,
+        "linear_x": 2.83466555350137e-12,
+        "angular_z": 4.358167472739982e-13,
+        "yaw": 3.182993069963079e-11
+      },
+      "forward_displacement_m": -2.314672208278092e-13,
+      "lateral_displacement_m": 1.6236298959366505e-13,
+      "yaw_change_rad": -0.9999999998636849,
+      "until_stop_confirmed_wall_s": 2.1217971119999675,
+      "functional_pass": true
+    },
+    {
+      "command": "stop",
+      "initial": {
+        "sequence": 863,
+        "received_wall": 3737.144024184,
+        "sim_seconds": 40.82,
+        "x": -0.00010000009104617561,
+        "y": -1.518877902705766e-13,
+        "linear_x": 2.83466555350137e-12,
+        "angular_z": 4.358167472739982e-13,
+        "yaw": 3.182993069963079e-11
+      },
+      "final": {
+        "sequence": 868,
+        "received_wall": 3737.244053592,
+        "sim_seconds": 40.92,
+        "x": -0.00010000009076263598,
+        "y": -1.5188779026154544e-13,
+        "linear_x": 2.835740946531204e-12,
+        "angular_z": 4.259044289120495e-13,
+        "yaw": 3.1872820978632796e-11
+      },
+      "forward_displacement_m": 2.835396305765625e-13,
+      "lateral_displacement_m": 6.110530157880934e-27,
+      "yaw_change_rad": 4.2890279002005816e-14,
+      "until_stop_confirmed_wall_s": 0.10100028399983785,
+      "functional_pass": true
+    }
+  ],
+  "http_e2e_wall_s": 7.517519398999866,
+  "execution_until_stop_confirmed_wall_s": 8.588512546999937,
+  "total_request_to_completion_wall_s": 16.106124268999793,
+  "functional_pass": true
+}

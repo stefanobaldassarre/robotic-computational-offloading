@@ -1,0 +1,167 @@
+[
+  {
+    "file": "S1_01.wav",
+    "command_count": 1,
+    "expected_commands": [
+      "avanti"
+    ],
+    "duration_seconds": 4.2866875,
+    "sha256": "01f42f0ceaaa846dd88299a79b8c5ee3591e2aa8c9aa629d710c42d895818303"
+  },
+  {
+    "file": "S1_02.wav",
+    "command_count": 1,
+    "expected_commands": [
+      "indietro"
+    ],
+    "duration_seconds": 3.9453125,
+    "sha256": "ee0e77e417b698d48c49e029cba1097f28e6b2690136635e055461817651f75f"
+  },
+  {
+    "file": "S1_03.wav",
+    "command_count": 1,
+    "expected_commands": [
+      "sinistra"
+    ],
+    "duration_seconds": 3.5186875,
+    "sha256": "910e70b8acf00f2872453c0c56c82e12576e85227109c776798e7ec63072a28c"
+  },
+  {
+    "file": "S1_04.wav",
+    "command_count": 1,
+    "expected_commands": [
+      "destra"
+    ],
+    "duration_seconds": 4.2013125,
+    "sha256": "872ebeeb816a4d52da5e6221b195babaf110363ed2acb5a1bb23e8e86fb719b1"
+  },
+  {
+    "file": "S1_05.wav",
+    "command_count": 1,
+    "expected_commands": [
+      "stop"
+    ],
+    "duration_seconds": 4.5426875,
+    "sha256": "ec7be72fbc4368d65bfe05686db83116700e65219a97f82348bc7f10b7b4c966"
+  },
+  {
+    "file": "S3_01.wav",
+    "command_count": 3,
+    "expected_commands": [
+      "avanti",
+      "indietro",
+      "sinistra"
+    ],
+    "duration_seconds": 11.7506875,
+    "sha256": "19ac66b3271dcfd2bd03ebb4deaa7fef4d08d3f48d903c449493e9614e6bc433"
+  },
+  {
+    "file": "S3_02.wav",
+    "command_count": 3,
+    "expected_commands": [
+      "indietro",
+      "sinistra",
+      "destra"
+    ],
+    "duration_seconds": 11.6653125,
+    "sha256": "a95cbd9ae65e4182f2815eb304c5249bb3a5f267bd0dc65d7316c26ed1a24a2b"
+  },
+  {
+    "file": "S3_03.wav",
+    "command_count": 3,
+    "expected_commands": [
+      "sinistra",
+      "destra",
+      "stop"
+    ],
+    "duration_seconds": 12.2626875,
+    "sha256": "6c9af5d429fe1675d838d1ba873d31032dc34aaafd986fe555387bf9423a900f"
+  },
+  {
+    "file": "S3_04.wav",
+    "command_count": 3,
+    "expected_commands": [
+      "destra",
+      "stop",
+      "avanti"
+    ],
+    "duration_seconds": 13.0306875,
+    "sha256": "a1905e2e9aa24fb5f2e1d4783c4fcba20540a45dd49aeaca06c17ae9e215d40b"
+  },
+  {
+    "file": "S3_05.wav",
+    "command_count": 3,
+    "expected_commands": [
+      "stop",
+      "avanti",
+      "indietro"
+    ],
+    "duration_seconds": 12.7746875,
+    "sha256": "075198f83511d8b1ae8c3bd3a0ac373f0d316da8113cc30c20502febf52f247d"
+  },
+  {
+    "file": "S5_01.wav",
+    "command_count": 5,
+    "expected_commands": [
+      "avanti",
+      "indietro",
+      "sinistra",
+      "destra",
+      "stop"
+    ],
+    "duration_seconds": 20.4946875,
+    "sha256": "c2f0fcf26b0127d61648353e9c187728a6c757a9b717b482ff9c73118146a743"
+  },
+  {
+    "file": "S5_02.wav",
+    "command_count": 5,
+    "expected_commands": [
+      "indietro",
+      "sinistra",
+      "destra",
+      "stop",
+      "avanti"
+    ],
+    "duration_seconds": 20.4946875,
+    "sha256": "fcbb4b484fd91f56a6075731a9cfd89776b395a40164b084e0a835abbbd1f915"
+  },
+  {
+    "file": "S5_03.wav",
+    "command_count": 5,
+    "expected_commands": [
+      "sinistra",
+      "destra",
+      "stop",
+      "avanti",
+      "indietro"
+    ],
+    "duration_seconds": 20.4946875,
+    "sha256": "46b9b80e658239f15ccf75e1286b75c1addb1340be52dd5821baf91481776f1c"
+  },
+  {
+    "file": "S5_04.wav",
+    "command_count": 5,
+    "expected_commands": [
+      "destra",
+      "stop",
+      "avanti",
+      "indietro",
+      "sinistra"
+    ],
+    "duration_seconds": 20.4946875,
+    "sha256": "7d13c9bb2bd63ff58f1d17f9c488de195a01ce2e2ea91182432a07dfe1e03e5c"
+  },
+  {
+    "file": "S5_05.wav",
+    "command_count": 5,
+    "expected_commands": [
+      "stop",
+      "avanti",
+      "indietro",
+      "sinistra",
+      "destra"
+    ],
+    "duration_seconds": 20.4946875,
+    "sha256": "a34bd4fddc00f2db77553e455703b2387102d1906fc0c18e1a8017f8e0b1f132"
+  }
+]

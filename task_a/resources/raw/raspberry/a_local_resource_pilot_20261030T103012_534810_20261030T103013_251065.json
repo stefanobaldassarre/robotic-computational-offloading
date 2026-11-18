@@ -1,0 +1,44 @@
+{
+  "container": "task-a-local",
+  "container_id": "818d423ba8b80ab59993f4edd29c76a5cc69cc5acdb78a4a164e5a01e535b5da",
+  "image_id": "sha256:3e8b25f718556319851be58c66ad71c76af13836968a4e63a3e26896732f5215",
+  "label": "a_local_resource_pilot_20261030T103012_534810",
+  "kernel": "6.18.39+rpt-rpi-v8",
+  "kernel_cmdline": "coherent_pool=1M 8250.nr_uarts=0 snd_bcm2835.enable_headphones=0 cgroup_disable=memory snd_bcm2835.enable_headphones=1 snd_bcm2835.enable_hdmi=1 snd_bcm2835.enable_hdmi=0  vc_mem.mem_base=0x3ec00000 vc_mem.mem_size=0x40000000  console=ttyS0,115200 console=tty1 root=PARTUUID=0aacf028-02 rootfstype=ext4 fsck.repair=yes rootwait ds=nocloud;i=rpi-imager-1786953552513 cfg80211.ieee80211_regdom=IT cgroup_enable=memory",
+  "cpus": 4,
+  "cpu_max": "max 100000",
+  "effective_cpus": "0-3",
+  "memory_events_before": {
+    "low": 0,
+    "high": 0,
+    "max": 0,
+    "oom": 0,
+    "oom_kill": 0,
+    "oom_group_kill": 0
+  },
+  "windows": [
+    {
+      "phase": "idle",
+      "elapsed_s": 10.004356186000223,
+      "cpu_seconds": 0.002962,
+      "memory_start_bytes": 39161856,
+      "memory_end_bytes": 39161856
+    },
+    {
+      "phase": "active",
+      "elapsed_s": 8.114885488000255,
+      "cpu_seconds": 11.178802,
+      "memory_start_bytes": 39161856,
+      "memory_end_bytes": 40964096
+    }
+  ],
+  "status": "completed",
+  "memory_events_after": {
+    "low": 0,
+    "high": 0,
+    "max": 0,
+    "oom": 0,
+    "oom_kill": 0,
+    "oom_group_kill": 0
+  }
+}

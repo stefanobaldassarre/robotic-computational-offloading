@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+*.pyc
+gazebo_frame.png
+test_image_processing.py

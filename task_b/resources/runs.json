@@ -1,0 +1,112 @@
+[
+  {
+    "task": "b",
+    "mode": "local",
+    "level": "all",
+    "replicate": 1,
+    "label": "b_local_resource_pilot_20261029T190017_233338",
+    "ubuntu_json": "task_b/resources/raw/ubuntu/b_local_resource_pilot_20261029T190017_233338.json",
+    "ubuntu_csv": "task_b/resources/raw/ubuntu/b_local_resource_pilot_20261029T190017_233338.csv",
+    "raspberry_json": "task_b/resources/raw/raspberry/b_local_resource_pilot_20261029T190017_233338_20261029T190032_956192.json",
+    "raspberry_csv": "task_b/resources/raw/raspberry/b_local_resource_pilot_20261029T190017_233338_20261029T190032_956192.csv"
+  },
+  {
+    "task": "b",
+    "mode": "remote",
+    "level": "all",
+    "replicate": 1,
+    "label": "b_remote_resource_pilot_20261029T185353_312287",
+    "ubuntu_json": "task_b/resources/raw/ubuntu/b_remote_resource_pilot_20261029T185353_312287.json",
+    "ubuntu_csv": "task_b/resources/raw/ubuntu/b_remote_resource_pilot_20261029T185353_312287.csv",
+    "raspberry_json": "task_b/resources/raw/raspberry/b_remote_resource_pilot_20261029T185353_312287_20261029T185355_047467.json",
+    "raspberry_csv": "task_b/resources/raw/raspberry/b_remote_resource_pilot_20261029T185353_312287_20261029T185355_047467.csv"
+  },
+  {
+    "task": "b",
+    "mode": "local",
+    "level": "all",
+    "replicate": 2,
+    "label": "b_local_resource_pilot_20261029T190358_302239",
+    "ubuntu_json": "task_b/resources/raw/ubuntu/b_local_resource_pilot_20261029T190358_302239.json",
+    "ubuntu_csv": "task_b/resources/raw/ubuntu/b_local_resource_pilot_20261029T190358_302239.csv",
+    "raspberry_json": "task_b/resources/raw/raspberry/b_local_resource_pilot_20261029T190358_302239_20261029T190413_987758.json",
+    "raspberry_csv": "task_b/resources/raw/raspberry/b_local_resource_pilot_20261029T190358_302239_20261029T190413_987758.csv"
+  },
+  {
+    "task": "b",
+    "mode": "remote",
+    "level": "all",
+    "replicate": 2,
+    "label": "b_remote_resource_pilot_20261029T190909_302888",
+    "ubuntu_json": "task_b/resources/raw/ubuntu/b_remote_resource_pilot_20261029T190909_302888.json",
+    "ubuntu_csv": "task_b/resources/raw/ubuntu/b_remote_resource_pilot_20261029T190909_302888.csv",
+    "raspberry_json": "task_b/resources/raw/raspberry/b_remote_resource_pilot_20261029T190909_302888_20261029T190910_922698.json",
+    "raspberry_csv": "task_b/resources/raw/raspberry/b_remote_resource_pilot_20261029T190909_302888_20261029T190910_922698.csv"
+  },
+  {
+    "task": "b",
+    "mode": "local",
+    "level": "all",
+    "replicate": 3,
+    "label": "b_local_resource_pilot_20261029T191548_068577",
+    "ubuntu_json": "task_b/resources/raw/ubuntu/b_local_resource_pilot_20261029T191548_068577.json",
+    "ubuntu_csv": "task_b/resources/raw/ubuntu/b_local_resource_pilot_20261029T191548_068577.csv",
+    "raspberry_json": "task_b/resources/raw/raspberry/b_local_resource_pilot_20261029T191548_068577_20261029T191603_634837.json",
+    "raspberry_csv": "task_b/resources/raw/raspberry/b_local_resource_pilot_20261029T191548_068577_20261029T191603_634837.csv"
+  },
+  {
+    "task": "b",
+    "mode": "remote",
+    "level": "all",
+    "replicate": 3,
+    "label": "b_remote_resource_pilot_20261029T191247_972352",
+    "ubuntu_json": "task_b/resources/raw/ubuntu/b_remote_resource_pilot_20261029T191247_972352.json",
+    "ubuntu_csv": "task_b/resources/raw/ubuntu/b_remote_resource_pilot_20261029T191247_972352.csv",
+    "raspberry_json": "task_b/resources/raw/raspberry/b_remote_resource_pilot_20261029T191247_972352_20261029T191249_591863.json",
+    "raspberry_csv": "task_b/resources/raw/raspberry/b_remote_resource_pilot_20261029T191247_972352_20261029T191249_591863.csv"
+  },
+  {
+    "task": "b",
+    "mode": "local",
+    "level": "all",
+    "replicate": 4,
+    "label": "b_local_resource_pilot_20261029T191913_274015",
+    "ubuntu_json": "task_b/resources/raw/ubuntu/b_local_resource_pilot_20261029T191913_274015.json",
+    "ubuntu_csv": "task_b/resources/raw/ubuntu/b_local_resource_pilot_20261029T191913_274015.csv",
+    "raspberry_json": "task_b/resources/raw/raspberry/b_local_resource_pilot_20261029T191913_274015_20261029T191928_896576.json",
+    "raspberry_csv": "task_b/resources/raw/raspberry/b_local_resource_pilot_20261029T191913_274015_20261029T191928_896576.csv"
+  },
+  {
+    "task": "b",
+    "mode": "remote",
+    "level": "all",
+    "replicate": 4,
+    "label": "b_remote_resource_pilot_20261029T192254_297026",
+    "ubuntu_json": "task_b/resources/raw/ubuntu/b_remote_resource_pilot_20261029T192254_297026.json",
+    "ubuntu_csv": "task_b/resources/raw/ubuntu/b_remote_resource_pilot_20261029T192254_297026.csv",
+    "raspberry_json": "task_b/resources/raw/raspberry/b_remote_resource_pilot_20261029T192254_297026_20261029T192255_076583.json",
+    "raspberry_csv": "task_b/resources/raw/raspberry/b_remote_resource_pilot_20261029T192254_297026_20261029T192255_076583.csv"
+  },
+  {
+    "task": "b",
+    "mode": "local",
+    "level": "all",
+    "replicate": 5,
+    "label": "b_local_resource_pilot_20261029T192749_847037",
+    "ubuntu_json": "task_b/resources/raw/ubuntu/b_local_resource_pilot_20261029T192749_847037.json",
+    "ubuntu_csv": "task_b/resources/raw/ubuntu/b_local_resource_pilot_20261029T192749_847037.csv",
+    "raspberry_json": "task_b/resources/raw/raspberry/b_local_resource_pilot_20261029T192749_847037_20261029T192804_631231.json",
+    "raspberry_csv": "task_b/resources/raw/raspberry/b_local_resource_pilot_20261029T192749_847037_20261029T192804_631231.csv"
+  },
+  {
+    "task": "b",
+    "mode": "remote",
+    "level": "all",
+    "replicate": 5,
+    "label": "b_remote_resource_pilot_20261029T192601_009335",
+    "ubuntu_json": "task_b/resources/raw/ubuntu/b_remote_resource_pilot_20261029T192601_009335.json",
+    "ubuntu_csv": "task_b/resources/raw/ubuntu/b_remote_resource_pilot_20261029T192601_009335.csv",
+    "raspberry_json": "task_b/resources/raw/raspberry/b_remote_resource_pilot_20261029T192601_009335_20261029T192601_817973.json",
+    "raspberry_csv": "task_b/resources/raw/raspberry/b_remote_resource_pilot_20261029T192601_009335_20261029T192601_817973.csv"
+  }
+]

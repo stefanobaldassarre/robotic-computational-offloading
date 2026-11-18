@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+*.bak
+*.log
+.env
+
+# Modello B scaricato separatamente
+task_b/models/
+
+# Credenziali e chiavi private
+*.pem
+*.key
+tesi_monitor_ed25519
+
+# Esportazioni generate da MATLAB
+analysis/grafici/grafici_*/
+analysis/grafici/grafici_tesi_*.zip

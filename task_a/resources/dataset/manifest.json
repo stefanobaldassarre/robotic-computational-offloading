@@ -1,0 +1,10 @@
+{
+  "file": "frame_001.jpg",
+  "source": "camera Gazebo, thesis_world.sdf",
+  "width": 640,
+  "height": 480,
+  "encoding": "cv2.imencode JPEG, parametri predefiniti",
+  "opencv_version": "4.6.0",
+  "payload_bytes": 14310,
+  "sha256": "cf13f2744c48f89c939e1acdb0c6fe83ac1abf3cb024b83bc8bce45832ff117c"
+}

@@ -1,0 +1,30 @@
+{
+  "status": "completed",
+  "initial": {
+    "sequence": 56,
+    "received_wall": 1670.692564656,
+    "sim_seconds": 424.98,
+    "x": 0.29099999980973246,
+    "y": 7.944475750314545e-11,
+    "linear_x": 2.398081733190338e-12,
+    "angular_z": 8.881784197001252e-13
+  },
+  "final": {
+    "sequence": 161,
+    "received_wall": 1672.792361605,
+    "sim_seconds": 427.08,
+    "x": 0.4908999998057405,
+    "y": 1.6839196024457068e-10,
+    "linear_x": 1.7763568394002505e-13,
+    "angular_z": 0.0
+  },
+  "commanded_speed_m_s": 0.1,
+  "requested_sim_duration_s": 2.0,
+  "command_interval_wall_s": 1.9995725809999385,
+  "command_interval_sim_s": 2.0,
+  "until_stop_confirmed_wall_s": 2.100496443999873,
+  "until_stop_confirmed_sim_s": 2.099999999999966,
+  "displacement_m": 0.19989999999600805,
+  "movement_observed": true,
+  "stop_confirmed": true
+}

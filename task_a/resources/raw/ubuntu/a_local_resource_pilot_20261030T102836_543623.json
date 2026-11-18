@@ -1,0 +1,40 @@
+{
+  "mode": "local",
+  "label": "a_local_resource_pilot_20261030T102836_543623",
+  "status": "completed",
+  "image_manifest": {
+    "file": "frame_001.jpg",
+    "source": "camera Gazebo, thesis_world.sdf",
+    "width": 640,
+    "height": 480,
+    "encoding": "cv2.imencode JPEG, parametri predefiniti",
+    "opencv_version": "4.6.0",
+    "payload_bytes": 14310,
+    "sha256": "cf13f2744c48f89c939e1acdb0c6fe83ac1abf3cb024b83bc8bce45832ff117c"
+  },
+  "warmup_count": 10,
+  "measured_count": 300,
+  "windows": [
+    {
+      "event": "ENDED",
+      "phase": "idle",
+      "elapsed_s": 10.004327812000156,
+      "cpu_seconds": 0.002652,
+      "memory_start_bytes": 39419904,
+      "memory_end_bytes": 39419904
+    },
+    {
+      "event": "ENDED",
+      "phase": "active",
+      "elapsed_s": 8.105105389000528,
+      "cpu_seconds": 11.208176,
+      "memory_start_bytes": 39419904,
+      "memory_end_bytes": 40910848
+    }
+  ],
+  "protocol": "fixed_JPEG_300_serial_requests_no_pacing",
+  "agent": {
+    "event": "READY",
+    "base": "/home/raspberry/tesi/resource_monitor/results/a_local_resource_pilot_20261030T102836_543623_20261030T102836_384614"
+  }
+}

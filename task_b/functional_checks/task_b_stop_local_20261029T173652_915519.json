@@ -1,0 +1,50 @@
+{
+  "mode": "local",
+  "file": "S1_05.wav",
+  "sha256": "ec7be72fbc4368d65bfe05686db83116700e65219a97f82348bc7f10b7b4c966",
+  "recognition": {
+    "audio_seconds": 4.5426875,
+    "commands": [
+      "stop"
+    ],
+    "payload_bytes": 145410,
+    "processing_time_ms": 2610.473739000099,
+    "service_time_ms": 2621.9811860000846,
+    "text": "stop"
+  },
+  "before_request": {
+    "sequence": 76,
+    "received_wall": 3390.394058951,
+    "sim_seconds": 16.0,
+    "x": -4.100310182895342e-11,
+    "y": -1.351747550523497e-14,
+    "linear_x": -8.23646706393788e-13,
+    "angular_z": 0.19999999992810907
+  },
+  "before_stop": {
+    "sequence": 208,
+    "received_wall": 3393.033978777,
+    "sim_seconds": 18.64,
+    "x": -4.255518409737687e-11,
+    "y": -4.881759145914353e-13,
+    "linear_x": -7.591149930874508e-13,
+    "angular_z": 0.19999999993109419
+  },
+  "final": {
+    "sequence": 214,
+    "received_wall": 3393.153910668,
+    "sim_seconds": 18.76,
+    "x": -4.256262540076524e-11,
+    "y": -4.933722662841665e-13,
+    "linear_x": 0.0,
+    "angular_z": -1.7763568394002505e-13
+  },
+  "http_e2e_wall_s": 2.6493584109998665,
+  "response_to_stop_command_wall_s": 8.853899998939596e-05,
+  "stop_command_to_confirmation_wall_s": 0.12128060400027607,
+  "stop_command_to_confirmation_sim_s": 0.120000000000001,
+  "total_request_to_stop_confirmed_wall_s": 2.770727554000132,
+  "moving_before_stop": true,
+  "stop_confirmed": true,
+  "functional_pass": true
+}
